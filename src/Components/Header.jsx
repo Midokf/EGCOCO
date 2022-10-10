@@ -10,7 +10,7 @@ export default function Header() {
             <img src={home} alt="home" />
         </div>
             <div className='text'>
-                <h2>نحن شركة تسويق اليكتروني</h2>
+                <h2>EGCOCO للتسويق اليكتروني</h2>
                 <h2>خدماتنا, </h2>
                     <p>
 
